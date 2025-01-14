@@ -35,6 +35,8 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Chatgpt Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
+## ✨ Prompts utilizados:
+
 ## 📚 Materiais
 
 - [Link da live no Youtube](https://www.youtube.com)
