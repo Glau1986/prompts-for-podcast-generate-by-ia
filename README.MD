@@ -35,7 +35,17 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Chatgpt Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## ✨ Prompts utilizados:
+## 🧠 Prompts
+
+Chatgpt：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | conforme material (https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)|
+| texto | conforme material (https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4) |
+| imagem | me de ideias de imagens para capa de podcast sobre o podcast acima |
+| imagem | Por favor gere a seguintes imagem: 5. Glaucia Apresentando a Ideia.Uma ilustração ou caricatura de Glaucia (mulher, branca, cabelo tamanho médio, liso, cor de cabelo morena iluminada, olhos verdes) segurando uma casa miniatura. Fundo colorido, mas não poluído, com texto em destaque Plano Certo. |
+
 
 ## 📚 Materiais
 
