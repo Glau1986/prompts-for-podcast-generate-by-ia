@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/assets/DALL·E 2025-01-14 16.45.59 - A caricature-style illustration of a woman named Glaucia, depicted as white, with medium-length straight hair in a brunette balayage style, and green .webp"
+    src="./assets/DALL·E 2025-01-14 16.45.59 - A caricature-style illustration of a woman named Glaucia, depicted as white, with medium-length straight hair in a brunette balayage style, and green .webp"
     width="300"
 />
 </p>
